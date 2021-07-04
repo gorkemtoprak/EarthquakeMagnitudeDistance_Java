@@ -12,13 +12,13 @@ associated with the MOOC.
 Get excited and make things!
 
 
-# INSTALLATION
+## INSTALLATION
 
 Import this folder in Eclipse ('File' -> 'Import' -> 'Existing Projects into
 Workspace', Select this folder, 'Finish')
 
 
-# MANUAL INSTALLATION
+## MANUAL INSTALLATION
 
 If the import does not work follow the steps below.
 
@@ -29,12 +29,12 @@ If the import does not work follow the steps below.
 - Add data/ as src
 
 
-# TROUBLE SHOOTING
+## TROUBLE SHOOTING
 
 Switch Java Compiler to 1.6 if you get VM problems. (Processing should work with Java 1.6, and 1.7)
 
 
-# OUTPUTS
+## OUTPUTS
 
 ![](outputs/earth.png)
 
